@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\bin\Debug\net7.0\coffeeshop2.exe
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\bin\Debug\net7.0\coffeeshop2.deps.json
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\bin\Debug\net7.0\coffeeshop2.runtimeconfig.json
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\bin\Debug\net7.0\coffeeshop2.dll
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\bin\Debug\net7.0\coffeeshop2.pdb
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.AssemblyInfo.cs
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.dll
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\refint\coffeeshop2.dll
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.pdb
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\coffeeshop2.genruntimeconfig.cache
+C:\Users\Training\Desktop\newcoffee\coffeeshop2.solution\coffeeshop2\obj\Debug\net7.0\ref\coffeeshop2.dll
